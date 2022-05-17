@@ -15,6 +15,6 @@ Some of my biggest projects include:
 As we are currently nearing the end of my 8th grade school year, I would like to say a few things to my school's admins.
 It was fun constantly creating new sites to circumvent the blocks.
 
-And Mr. Brown, half those proxy browser sites were mine. :)
+And (insert name of admin who blocks sites), half those proxy browser sites were mine. :)
 
 Farewell.
