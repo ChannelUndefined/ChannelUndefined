@@ -12,7 +12,7 @@ Some of my biggest projects include:
 - Totally Accurate Nerf Gun Simulator - A cheap FPS school project made in Unity WebGL
 
 
-As we are currently nearing the end of my 8th grade school year, I would like to say a few things to my school's admins.
+As the end of my 8th grade school year has arrived, I would like to say a few things to my school's admins.
 It was fun constantly creating new sites to circumvent the blocks.
 
 And (insert name of admin who blocks sites), half those proxy browser sites were mine. :)
